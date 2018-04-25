@@ -1,0 +1,4 @@
+1. normalization of input values to mean zero
+standard deviation one.
+
+2.
